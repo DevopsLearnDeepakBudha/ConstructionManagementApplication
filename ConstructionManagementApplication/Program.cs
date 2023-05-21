@@ -15,7 +15,7 @@ namespace ConstructionManagementApplication
         [STAThread]
         static void Main()
         {
-            //Test Method Call
+            //Test Method Call version 1
             Test();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
